@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from display_value="Log">7fb0c7f90742101040bcf48f7c1ed09a</copied_from>
+        <description>Log: Test of When needed with a date in the future should fail. </description>
+        <display_name>Log</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>4</order>
+        <snapshot/>
+        <step_config display_value="Log">58ab71985f30220012b44adb7f46661e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-17 17:58:28</sys_created_on>
+        <sys_id>9073c77d0742101040bcf48f7c1ed079</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_step_9073c77d0742101040bcf48f7c1ed079</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-17 17:59:37</sys_updated_on>
+        <table/>
+        <test display_value="When needed - Past">80734f3d0742101040bcf48f7c1ed024</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=9073c77d0742101040bcf48f7c1ed079"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>9073c77d0742101040bcf48f7c1ed079</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-17 17:58:28</sys_created_on>
+        <sys_id>d073c77d0742101040bcf48f7c1ed07a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-17 17:59:37</sys_updated_on>
+        <value>Test of When needed with a date in the future should fail. </value>
+        <variable display_value="">523c79985f30220012b44adb7f46663a</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="id=9073c77d0742101040bcf48f7c1ed079"/>
+    <sys_element_mapping action="DELETE">
+        <field>log</field>
+        <id>9073c77d0742101040bcf48f7c1ed079</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-17 17:58:28</sys_created_on>
+        <sys_id>d473c77d0742101040bcf48f7c1ed07a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-17 17:59:37</sys_updated_on>
+        <table>var__m_atf_input_variable_58ab71985f30220012b44adb7f46661e</table>
+        <value>Test of When needed with a date in the future should fail. </value>
+    </sys_element_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>b50787e06fa91a00869e7b2f5d3ee4b3</instance_id>
+        <instance_name>dev19513</instance_name>
+        <name>sys_atf_step_9073c77d0742101040bcf48f7c1ed079</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from display_value="Log">7fb0c7f90742101040bcf48f7c1ed09a</copied_from><description>Log: Test of When needed with a date in the future should fail. </description><display_name>Log</display_name><inputs/><inputs/><mugshots_cache_json/><notes/><order>4</order><snapshot/><step_config display_value="Log">58ab71985f30220012b44adb7f46661e</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-17 17:58:28</sys_created_on><sys_id>9073c77d0742101040bcf48f7c1ed079</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Log</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_step_9073c77d0742101040bcf48f7c1ed079</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-17 17:59:37</sys_updated_on><table/><test display_value="When needed - Past">80734f3d0742101040bcf48f7c1ed024</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=9073c77d0742101040bcf48f7c1ed079"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>9073c77d0742101040bcf48f7c1ed079</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-17 17:58:28</sys_created_on><sys_id>d073c77d0742101040bcf48f7c1ed07a</sys_id><sys_mod_count>3</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-17 17:59:37</sys_updated_on><value>Test of When needed with a date in the future should fail. </value><variable display_value="">523c79985f30220012b44adb7f46663a</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="id=9073c77d0742101040bcf48f7c1ed079"/><sys_element_mapping action="INSERT_OR_UPDATE"><field>log</field><id>9073c77d0742101040bcf48f7c1ed079</id><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-17 17:58:28</sys_created_on><sys_id>d473c77d0742101040bcf48f7c1ed07a</sys_id><sys_mod_count>3</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-17 17:59:37</sys_updated_on><table>var__m_atf_input_variable_58ab71985f30220012b44adb7f46661e</table><value>Test of When needed with a date in the future should fail. </value></sys_element_mapping></record_update>]]></payload>
+        <payload_hash>-1487833673</payload_hash>
+        <record_name>Log</record_name>
+        <reverted_from/>
+        <source>c0908fb90742101040bcf48f7c1ed000</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-17 17:59:37</sys_created_on>
+        <sys_id>55b3cb7d0742101040bcf48f7c1ed01c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1735dee7cb30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-17 17:59:37</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>9db3cb7d7942101069b45ec34fa1cd1b</update_guid>
+        <update_guid_history>9db3cb7d7942101069b45ec34fa1cd1b:-1487833673,96a3c77d03421010cca1a6482b15f9a4:1699695682,5073c77dc1421010dcd2be2283056680:-639993060,1c73c77d564210102e7eae9981b25b7b:-1085511632</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-17 18:02:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>05a06c232d9a4640879b7261eb4514a4</sys_id>
+        <sys_metadata>9073c77d0742101040bcf48f7c1ed079</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_step_9073c77d0742101040bcf48f7c1ed079</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_9073c77d0742101040bcf48f7c1ed079">55b3cb7d0742101040bcf48f7c1ed01c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-17 18:02:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
